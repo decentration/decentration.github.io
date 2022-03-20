@@ -5,6 +5,8 @@ authors: ramsey
 tags: [facebook, hello, docusaurus]
 ---
 
+This blog is being revamped. It will be a place for ideas to be communicated.
+
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 
 Simply add Markdown files (or folders) to the `blog` directory.
