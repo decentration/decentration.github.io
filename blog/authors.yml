@@ -15,3 +15,10 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+ramsey:
+  name: Ramsey
+  title: founder of Decentration
+  url: https://github.com/decentration
+  image_url: https://docs.decentration.org/img/decentration.svg
+
