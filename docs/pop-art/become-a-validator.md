@@ -2,13 +2,15 @@
 sidebar_position: 2
 ---
 
-# Become a Validator on Pop-Art
+# Become a Validator
 
 ![alt text](https://github.com/Kabocha-Network/polkadot/blob/master/images/pop-art.jpg?raw=true?raw=true)
 
-**Repo**: https://github.com/kabocha-network/relay-chain/edit/v0.9.16-n1/  
+**Repo**: https://github.com/kabocha-network/relay-chain/tree/v0.9.18#pop-art-relay-chain   
 
-**Branch**: v0.9.16-n1
+**Branch**: [v0.9.18](https://github.com/kabocha-network/relay-chain/tree/v0.9.18#pop-art-relay-chain)
+
+**Chat**: [Pop-Art Validator's Channel](https://discord.gg/nYUSjPzmw4)
 
 This branch contains Pop-Art, a custom Rococo relay staging network. It is intended for projects in the Substrate ecosytem (and Edgeware/Kabocha community), so that people can test their parachain integrations, and get experiecne as a validator in a shared network. 
 

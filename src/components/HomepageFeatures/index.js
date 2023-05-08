@@ -8,12 +8,12 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Decentration builds decentralised open-source technologies and blockchain networks. 
+        Decentration builds next generation decentralised open-source technologies and blockchain networks. 
       </>
     ),
   },
   {
-    title: 'Holistic ',
+    title: 'Self-Organisation ',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Sovereign',
+    title: 'Autonomous',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
